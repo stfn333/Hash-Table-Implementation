@@ -25,3 +25,27 @@ Clone the repository and navigate to the project directory:
 ```bash
 git clone https://github.com/stfn333/Hash-Table-Implementation.git
 cd Hash-Table-Implementation
+
+## Usage
+
+Below is a basic example of how to use the hash table:
+
+from hashtable import HashTable
+
+# Create an instance of the hash table
+hash_table = HashTable()
+
+# Insert key-value pairs
+hash_table.insert('apple', 100)
+hash_table.insert('banana', 200)
+hash_table.insert('cherry', 300)
+
+# Search for a key
+value = hash_table.search('banana')  # Output: 200
+
+# Delete a key-value pair
+hash_table.delete('apple')
+
+# Print the hash table
+print(hash_table)
+
