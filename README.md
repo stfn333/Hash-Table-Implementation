@@ -51,3 +51,7 @@ hash_table.delete('apple')
 # Print the hash table
 print(hash_table)
 ```
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
