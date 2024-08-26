@@ -33,6 +33,7 @@ Below is a basic example of how to use the hash table:
 
 from hashtable import HashTable
 
+```bash
 # Create an instance of the hash table
 hash_table = HashTable()
 
@@ -49,4 +50,4 @@ hash_table.delete('apple')
 
 # Print the hash table
 print(hash_table)
-
+```
