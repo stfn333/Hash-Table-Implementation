@@ -25,7 +25,7 @@ Clone the repository and navigate to the project directory:
 ```bash
 git clone https://github.com/stfn333/Hash-Table-Implementation.git
 cd Hash-Table-Implementation
-'''
+```
 
 ## Usage
 
