@@ -31,9 +31,9 @@ cd Hash-Table-Implementation
 
 Below is a basic example of how to use the hash table:
 
+```bash
 from hashtable import HashTable
 
-```bash
 # Create an instance of the hash table
 hash_table = HashTable()
 
